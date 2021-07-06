@@ -1,3 +1,8 @@
+# My drop folder
+Data/
+Source_Code/Create_Model/data_processed.csv
+Source_Code/Create_Model/df_nonacc.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
